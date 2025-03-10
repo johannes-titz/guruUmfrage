@@ -2,8 +2,9 @@ Data and analysis for *Einheitlich oder divers…*
 ================
 Johannes Titz, Annika Sternkopf, Toni Zapke
 
-This repository accompanies the paper *Einheitlich oder divers: Die
-Methodenlehre im Bachelor-Psychologiestudium an deutschen Universitäten*
+This repository accompanies the paper Sternkopf, Lungwitz, Zapke, &
+Titz. *Einheitlich oder divers: Die Methodenlehre im
+Bachelor-Psychologiestudium an deutschen Universitäten*
 
 ## preparation
 
