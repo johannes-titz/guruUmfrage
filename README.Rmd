@@ -1,5 +1,7 @@
 ---
-output: github_document
+output: 
+  github_document:
+    toc: true
 author: Johannes Titz, Annika Sternkopf, Toni Zapke
 title: Data and analysis for *Einheitlich oder divers...*
 ---
