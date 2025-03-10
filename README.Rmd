@@ -29,6 +29,7 @@ table 1
 ```{r}
 d <- read.csv2("topics.csv", row.names = 1)
 row.names(d)[1] <- "Anonym"
+colnames(d) <- substr(colnames(d), 1, 35)
 d <- d[, order(names(d))]
 kable(sort(colSums(d), decreasing = T))
 ```
