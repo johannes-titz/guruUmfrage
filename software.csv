@@ -1,35 +1,35 @@
 "Universität";"Jamovi";"JASP";"JMP";"MATLAB";"Minitab";"NumPy";"R";"S_Plus";"SPSS";"Stata";"SYSTAT"
-NA;0;0;0;0;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;1;0;0
-NA;0;1;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;1;0;0;0;0;0;1;0;1;0;0
-NA;0;0;0;1;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;1;1;0;0;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;1;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;1;0;1;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;1;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;0;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;1;1;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;1;0;1
-NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;0;1;0;1;0;0;1;0;1;0;0
-NA;0;1;0;0;0;0;1;0;1;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
-NA;1;1;0;1;0;0;1;0;0;0;0
-NA;0;0;0;0;0;0;1;0;0;0;0
+"Anonymous";0;0;0;0;0;0;1;0;1;0;0
+"Bergische Universität Wuppertal";0;0;0;0;0;0;1;0;1;0;0
+"Christian-Albrechts-Universität zu Kiel";0;1;0;0;0;0;1;0;0;0;0
+"Eberhard-Karls-Universität Tübingen";0;0;0;0;0;0;1;0;0;0;0
+"Humboldt-Universität zu Berlin";0;0;0;0;0;0;1;0;0;0;0
+"Julius-Maximilians-Universität Würzburg";1;0;0;0;0;0;1;0;1;0;0
+"Katholische Universität Eichstätt-Ingolstadt";0;0;0;1;0;0;1;0;1;0;0
+"Leuphana Universität Lüneburg";0;0;0;0;0;0;1;0;0;0;0
+"Ludwig-Maximilians-Universität München";0;0;0;0;0;0;1;0;0;0;0
+"Martin-Luther-Universität Halle-Wittenberg";0;0;0;0;0;0;1;0;1;0;0
+"Otto-von-Guericke Universität Magdeburg";0;0;0;0;0;0;1;0;0;0;0
+"Philipps-Universität Marburg";1;1;0;0;0;0;1;0;1;0;0
+"RPTU Kaiserslautern-Landau";0;0;0;0;0;0;1;0;0;0;0
+"Ruhr-Universität Bochum";0;0;0;0;0;0;1;0;0;0;0
+"TU Braunschweig";0;1;0;0;0;0;1;0;0;0;0
+"TU Chemnitz";0;0;0;0;0;0;1;0;0;0;0
+"Technische Universität Dresden";0;1;0;1;0;0;1;0;1;0;0
+"Universität Bielefeld";0;0;0;0;0;0;1;0;0;0;0
+"Universität Bremen";0;0;0;0;0;0;1;0;0;0;0
+"Universität Duisburg Essen";1;0;0;0;0;0;1;0;0;0;0
+"Universität Göttingen";0;0;0;0;0;0;1;0;0;0;0
+"Universität Hamburg";0;0;0;0;0;0;1;0;0;0;0
+"Universität Hildesheim";0;0;0;0;0;0;0;0;1;0;0
+"Universität Kassel";0;0;0;0;0;0;1;0;0;0;0
+"Universität Köln";1;1;0;0;0;0;1;0;0;0;0
+"Universität Leipzig";0;0;0;0;0;0;1;0;0;0;0
+"Universität Mannheim";0;0;0;0;0;0;1;0;1;0;1
+"Universität Osnabrück";NA;NA;NA;NA;NA;NA;NA;NA;NA;NA;NA
+"Universität Potsdam";0;0;0;0;0;0;1;0;0;0;0
+"Universität Regensburg";0;1;0;1;0;0;1;0;1;0;0
+"Universität Siegen";0;1;0;0;0;0;1;0;1;0;0
+"Universität des Saarlandes";0;0;0;0;0;0;1;0;0;0;0
+"Universität zu Lübeck";1;1;0;1;0;0;1;0;0;0;0
+"Westfälische Wilhelms-Universität Münster";0;0;0;0;0;0;1;0;0;0;0
