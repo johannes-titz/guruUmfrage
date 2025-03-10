@@ -1,0 +1,35 @@
+"";"AlltagspsychologievswissenschaftlichePsychologieErklärungwissenschaftlicheMethodeBaVl";"WissenschaftstheorieBa_Vl";"Messen_amp_Testen_Messtheorie_Repräsentationsproblem_Eindeutigkeitsproblem_Bedeutsamkeitsproblem_Ba_Vl";"Messen_amp_Testen_SkalenniveausBa_Vl";"Messen_amp_Testen_GütekriterienBa_Vl";"BefragungBa_Vl";"BeobachtungBa_Vl";"Experimentelle_DesignsBa_Vl";"Open_Science_Replikation_Ba_Vl";"Lage_amp_StreuungsmaßeBa_Vl";"KorrelationBa_Vl";"PartialkorrelationBa_Vl";"Einfache_lineare_RegressionBa_Vl";"Multiple_lineare_RegressionBa_Vl";"ModeratoranalyseBa_Vl";"MediatoranalyseBa_Vl";"Grundlagen_der_Inferenzstatistik_Wahrscheinlichkeitstheorie_Verteilungen_Ba_Vl";"KonfidenzintervalleBa_Vl";"Grundlagen_SignifikanztestsBa_Vl";"PoweranalyseBa_Vl";"t_Test_unabhängig_Ba_Vl";"t_Test_abhängig_Ba_Vl";"ANOVA_unabhängig_Ba_Vl";"ANOVA_abhängig_Ba_Vl";"ANOVA_mixed_Ba_Vl";"KovarianzanalyseBa_Vl";"MANOVABa_Vl";"KontrastanalyseBa_Vl";"nonparametrisch_Chi_Quadrat_TestBa_Vl";"nonparametrisch_McNemar_TestBa_Vl";"nonparametrisch_U_TestBa_Vl";"nonparametrisch_Wilcoxon_TestBa_Vl";"nonparametrisch_weitere_Tests_bitte_im_Freifeld_unten_spezifizieren_Ba_Vl";"Probleme.Limitationen_der_klassischen_Inferenzstatistik_Ba_Vl";"Algemeines_lineares_Modell_ALM_Ba_Vl";"Explorative_Datenanalyse_grafische_Darstellung_Ba_Vl";"Grundlagen_EffektgrößenBa_Vl";"MetaanalyseBa_Vl";"qualitative_MethodenBa_Vl";"experimentelle_EinzelfallanalyseBa_Vl";"FaktorenanalyseBa_Vl";"ClusteranalyseBa_Vl";"Umgang_mit_fehlenden_Werten_missing_values_Ba_Vl";"Verfälschte_StichprobenBa_Vl";"Randomized_ResponseBa_Vl";"Resampling_VerfahrenBa_Vl";"Bayesianische_StatistikBa_Vl";"Rechenregeln_für_Erwartungswert_Varianz_amp_KovarianzBa_Vl";"PfadanalyseBa_Vl";"StrukturgleichungsmodelleBa_Vl";"MehrebenenanalyseBa_Vl";"DiskriminanzanalyseBa_Vl";"logistische_RegressionBa_Vl";"ConjointanalyseBa_Vl";"ComputermodellierungBa_Vl";"Rechnen_mit_MatritzenBa_Vl";"multidimensionale_SkalierungBa_Vl"
+"Anonymous";1;1;1;1;1;1;1;1;0;1;1;0;1;0;0;0;1;1;1;1;1;1;1;1;0;0;0;0;1;0;1;1;1;0;0;1;1;0;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"Bergische U. Wuppertal";1;1;1;1;1;1;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;0;0;0;0;0;1;0;0;0;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"Christian-Albrechts-U. zu Kiel";0;0;0;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;1;0;0;0;1;0;0;1;1;0;0;0;0;0;0;0;0;0
+"Eberhard-Karls-U. Tübingen";1;1;1;1;1;1;1;1;1;1;0;1;1;0;0;0;1;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;1;1;1;1;0;0;0;0;0;0;1;0;1;1;1;0;0;0;0;1;0;0;0;0
+"Humboldt-U. zu Berlin";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;0;0;0;1;1;1;1;0;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+"Julius-Maximilians-U. Würzburg";1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;0;0;0;0;0;1;1;1;1;1;1;0;1;1;0;1;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0
+"Katholische U. Eichstätt-Ingolstadt";1;1;1;1;1;0;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;0;0;0;1;1;1;1;0;1;1;0;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+"Leuphana U. Lüneburg";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;0;1;1;0;1;1;0;1;1;1;1;0;0;0;1;0;1;1;0;1;1;1;1;0;1;0;1;0;0;1;0
+"Ludwig-Maximilians-U. München";0;0;1;1;1;1;1;1;1;1;1;0;1;1;1;0;1;1;1;1;1;1;1;0;0;0;0;1;0;0;0;0;0;1;1;1;1;1;0;0;1;0;0;1;0;0;1;1;0;0;0;0;1;0;0;0;0
+"Martin-Luther-U. Halle-Wittenberg";1;1;1;1;1;0;0;1;0;1;1;1;1;0;0;0;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"Otto-von-Guericke U. Magdeburg";1;1;1;1;0;0;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;1;1;0
+"Philipps-U. Marburg";0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;0;1;1;0;0;0;0;1;0;0;0;1;1;0;0;0;0;0;0;1;1;1;0;0;0;0;0;0
+"RPTU Kaiserslautern-Landau";1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;0;0;0;0;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;1;0;0;0;0
+"Ruhr-U. Bochum";1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;1;0;1;1;0;1;1;0;1;1;0;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0
+"TU Braunschweig";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;0;0;0;1;1;0;1;1;1;0;0;0;0;0;0;1;0;0
+"TU Chemnitz";1;1;1;1;1;1;1;1;0;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;0;1;0;0;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"TU Dresden";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;0;1;1;1;0;0;1;1;0;0;0;0;0;1;0;1;0;0
+"U. Bielefeld";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0
+"U. Bremen";1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;1;0;1;1;0;1;0;0;0;1;0;0;0;0;0;0;0;0;0;0;0;1;0;0;1;0
+"U. Duisburg Essen";1;0;1;1;1;0;0;0;0;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;0;1;0;1;1;0;1;1;0;0;1;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;0;0;0;0;0
+"U. Göttingen";1;0;1;1;1;0;0;1;0;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;0;0;1;1;1;0;1;0;1;1;1;1;0;0;0;1;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0
+"U. Hamburg";1;1;1;1;1;1;1;1;1;1;1;0;1;0;0;0;1;1;1;1;1;1;1;0;0;0;0;0;1;0;0;0;1;0;0;1;1;0;0;0;0;0;1;1;0;0;0;1;0;0;0;0;0;0;0;0;0
+"U. Hildesheim";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"U. Kassel";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;0;1;1;1;1;0;1;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"U. Köln";1;1;1;1;1;1;1;1;1;1;1;0;1;0;0;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;1;0;0;0;0;0;0;0;0;0
+"U. Leipzig";1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;1;0;0;0;0;0;1;1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+"U. Mannheim";1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;0;1;1;1;1;1;1;1;1;0;0;1;0;1;1;0;0;0;1;1;1;0;0;0;0;0;1;0
+"U. Osnabrück";1;1;1;1;1;1;1;1;0;1;1;1;1;0;0;0;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;0;1;0;1;1;1;0;0;1;0;0;0;1;0;0;1;0;0;0;0;0;0;0;0;0
+"U. Potsdam";1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;0;0;0;1;1;0;0;0;1;0;1;1;0;0;0;0;0;1;0;0;0;0;1;0;0;1;0;0;0;0;0;0
+"U. Regensburg";0;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;0;0;0;1;0;0;0;0;1;1;1;1;0;1;0;1;0;0;0;0;0;0;1;0;1;0;0;1;0;1;0;0
+"U. Siegen";1;1;1;1;0;0;0;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;1;1;1;1;1;1;1;1;0;0;0;1;0;0;1;0;0;0;1;0;0;0;0;1;0;1;1;0
+"U. des Saarlandes";1;1;0;1;1;1;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0;1;1;0;0;0;0;1;1;1;1;0;0;0;0;0;0;1;0;0;1;0;1;0;0;0;0;0;0;0;0
+"U. zu Lübeck";1;1;1;1;1;0;0;1;1;1;1;1;1;1;0;0;1;1;1;1;1;1;1;1;1;0;0;1;1;0;1;1;1;1;1;1;1;0;0;0;0;0;0;0;0;0;1;1;0;0;0;0;0;0;0;0;0
+"Westfälische Wilhelms-U. Münster";1;1;0;1;1;0;0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;1;1;0;0;0;0;1;0;1;1;1;0;0;0;0;0;1;0;1;1;1;0;0;0;0;0;0;0;0;0
